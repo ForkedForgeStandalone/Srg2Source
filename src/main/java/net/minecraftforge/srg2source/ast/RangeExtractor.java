@@ -412,7 +412,7 @@ public class RangeExtractor extends ConfLogger<RangeExtractor>
     }
 
     /**
-     * @param lib Either a directory or a file
+     * @param path Either a directory or a file
      */
     public RangeExtractor addLibs(String path)
     {
